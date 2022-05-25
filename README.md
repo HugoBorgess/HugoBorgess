@@ -1,10 +1,4 @@
-### Olá! Eu sou Hugo Borges
-
-
-- 🔭 Hoje eu trabalho com front-end
-- 🌱 Estudando TypeScript
-- 😄 Pronouns: Ele/Dele
-- Teste
+### Olá! eu sou Hugo Borges Dev Front-End
 
 <div align="center">
   <a href="https://github.com/hugoborgess">
