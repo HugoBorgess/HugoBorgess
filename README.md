@@ -1,12 +1,13 @@
 ### Olá! eu sou Hugo Borges
 
-<div align="center">
-  <a href="https://github.com/hugoborgess">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=hugoborgess&show_icons=true&theme=aura&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hugoborgess&layout=compact&langs_count=7&theme=aura"/>
-</div>
-  
-</div>
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" height="180em" src="https://github-readme-stats.vercel.app/api?username=hugoborgess&count_private=true&show_icons=true&theme=midnight-purple&locale" />
+</a>
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hugoborgess&theme=midnight-purple&locale" />
+</a>
+
+
 <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Rafa-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
